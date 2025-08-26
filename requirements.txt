@@ -1,0 +1,25 @@
+## langchain
+langchain
+langchain-core
+langchain_together 
+
+## transformer
+transformers
+tensorflow
+keras
+pytorch
+
+## env
+python-dotenv
+
+## FastAPI
+fastapi
+pydantic
+typing
+
+## streamlit
+streamlit
+uvicorn
+constants
+plotly
+streamlit_option_menu
